@@ -4,7 +4,7 @@
 
 # Flowchart
 
-
+![Flowchart  Praktikum 7 Bahasa Pemograman ](https://github.com/user-attachments/assets/ba715263-7bf4-462c-b400-d969306d3a0a)
 
 # Coding
 
@@ -74,7 +74,7 @@
     if __name__ == "__main__":
         menu()
 
-  # Penjelasan Coding
+  # Penjelasannya
 
 Penjelasan Berikut adalah penjelasan mengenai kode yang Anda berikan, yang merupakan program sederhana untuk mengelola data mahasiswa. Program ini memungkinkan pengguna untuk menambah, menampilkan, menghapus, dan mengubah data mahasiswa. Mari kita bahas setiap bagian dari kode tersebut:
 
@@ -156,29 +156,29 @@ Kesimpulan Program ini adalah aplikasi manajemen data siswa yang sederhana. Peng
 
 Dari hasil program yang berjalan, berikut urutan operasi yang dilakukan:
 
-a. Menambah data mahasiswa:
+# a. Menambah data mahasiswa:
 
 - Menambah "alpi" dengan nilai 60
 - Menambah "yadi" dengan nilai 75
 - Menambah "akmal" dengan nilai 98
 
-b. Mengubah data:
+# b. Mengubah data:
 
 Mengubah nilai "alpi" dari 60 menjadi 85
 
-c. Menampilkan data:
+# c. Menampilkan data:
 
 Menampilkan daftar yang berisi 3 siswa (alpi: 85, yadi: 75, akmal: 98)
 
-d. Menghapus data:
+# d. Menghapus data:
 
 Menghapus data siswa "yadi"
 
-e. Menampilkan data akhir:
+# e. Menampilkan data akhir:
 
 Menampilkan daftar final yang hanya berisi 2 siswa (alpi: 85, akmal: 98)
 
-f. Keluaran program:
+# f. Keluaran program:
 
 Memilih opsi 5 untuk mengakhiri program
 
@@ -190,3 +190,5 @@ Program ini mendemonstrasikan konsep dasar pemrograman Python seperti:
 - Pernyataan kondisional (if-elif-else)
 - Penanganan input/output
 - Pemahaman daftar (pada fungsi hapus)
+
+Program ini menggunakan kamus Python untuk menyimpan data siswa, dengan nama sebagai key dan nilai sebagai value. Implementasi menggunakan kelas untuk manajemen data yang lebih terstruktur dan mudah dipelihara.
