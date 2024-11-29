@@ -2,6 +2,10 @@
 
 # Tugas Bahasa Pemograman P7
 
+# Flowchart
+
+
+
 # Coding
 
     Daftar untuk menyimpan data mahasiswa
@@ -146,3 +150,43 @@ Kesimpulan Program ini adalah aplikasi manajemen data siswa yang sederhana. Peng
 
 ![HASIL CODING 2](https://github.com/user-attachments/assets/04aaf9bf-833c-4d57-9025-42d9506d9a5c)
 
+![HASIL CODING 3](https://github.com/user-attachments/assets/b24001ba-f505-4338-9127-774f762316c4)
+
+# Penjelasan Hasil Coding
+
+Dari hasil program yang berjalan, berikut urutan operasi yang dilakukan:
+
+a. Menambah data mahasiswa:
+
+- Menambah "alpi" dengan nilai 60
+- Menambah "yadi" dengan nilai 75
+- Menambah "akmal" dengan nilai 98
+
+b. Mengubah data:
+
+Mengubah nilai "alpi" dari 60 menjadi 85
+
+c. Menampilkan data:
+
+Menampilkan daftar yang berisi 3 siswa (alpi: 85, yadi: 75, akmal: 98)
+
+d. Menghapus data:
+
+Menghapus data siswa "yadi"
+
+e. Menampilkan data akhir:
+
+Menampilkan daftar final yang hanya berisi 2 siswa (alpi: 85, akmal: 98)
+
+f. Keluaran program:
+
+Memilih opsi 5 untuk mengakhiri program
+
+Program ini menggunakan struktur data list yang berisi kamus untuk setiap siswa, di mana setiap kamus menyimpan nama dan nilai siswa. Antarmuka program menggunakan input/output berbasis teks sederhana dengan menu pilihan 1-5 untuk melakukan berbagai operasi pada data siswa.
+Program ini mendemonstrasikan konsep dasar pemrograman Python seperti:
+- Penggunaan Struktur data (daftar dan kamus)
+- Fungsi dan parameter
+- Perulangan (sementara)
+- Pernyataan kondisional (if-elif-else)
+- Penanganan input/output
+- Pemahaman daftar (pada fungsi hapus)
