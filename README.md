@@ -139,3 +139,7 @@ Bagian dalam fungsi menu menangani pilihan pengguna:
       menu()
 Bagian ini memastikan bahwa fungsi menu() hanya akan dijalankan jika skrip ini dijalankan sebagai program utama, bukan jika diimpor sebagai modul.
 Kesimpulan Program ini adalah aplikasi manajemen data siswa yang sederhana. Pengguna dapat menambahkan, melihat, menghapus, dan mengubah data siswa melalui antarmuka teks. Program ini menggunakan daftar dan kamus untuk menyimpan dan mengelola data.
+
+# Hasil Coding 
+
+![HASIL CODING 1](https://github.com/user-attachments/assets/810f79fd-237c-4bd4-8f63-305223e1c855)
